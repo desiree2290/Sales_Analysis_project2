@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Node
+node_modules/
+npm-debug.log
+yarn.lock
+pnpm-lock.yaml
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Java / Build
+target/
+build/
+out/
+
+# Android / Kotlin
+*.apk
+*.aab
+.gradle/
+local.properties
+*.keystore
+*.jks
+
+# Others
+*.log

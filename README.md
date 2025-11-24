@@ -1,11 +1,11 @@
-# 📊 Aus Apparel Sales (4th Quarter) — Data Analysis Project
+# Aus Apparel Sales (4th Quarter) — Data Analysis Project
 
 This project is part of my **AI/ML coursework**, where I performed exploratory data analysis (EDA) on the `AusApparelSales4thQtr.csv` dataset.  
 The goal was to clean the data, analyze sales trends, visualize quarterly performance, and derive insights that could support sales forecasting and business decision-making.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This notebook walks through the full data exploration workflow, including:
 
@@ -21,7 +21,7 @@ This project builds foundational skills in **data wrangling**, **EDA**, and **da
 
 ---
 
-## 📁 Dataset Description
+## Dataset Description
 
 **File:** `AusApparelSales4thQtr.csv`  
 
@@ -38,7 +38,7 @@ This project builds foundational skills in **data wrangling**, **EDA**, and **da
 
 ---
 
-## 🧹 Data Cleaning Steps
+## Data Cleaning Steps
 
 The notebook includes several preprocessing steps:
 
@@ -55,7 +55,7 @@ The notebook includes several preprocessing steps:
 
 ---
 
-## 📊 Visualizations Included
+## Visualizations Included
 
 This project includes several high-impact visualizations:
 
@@ -79,7 +79,7 @@ This project includes several high-impact visualizations:
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Data cleaning & wrangling with **pandas**  
 - Exploratory data analysis  
@@ -90,7 +90,7 @@ This project includes several high-impact visualizations:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |-----------|---------|
@@ -103,7 +103,7 @@ This project includes several high-impact visualizations:
 
 ---
 
-## ▶️ How to Run the Notebook
+## How to Run the Notebook
 
 1. Clone the repository:
    ```bash
